@@ -1,9 +1,8 @@
-# vue3-course
+# InClub
 
-## Подписываемся на телеграм 
+## Find people by interests.
 
-[Telegram канал](https://t.me/ulbi_tv)
+# dev start
 
+## npm run serve
 
-## Если хочешь поддержать меня 
-[Patreon](https://www.patreon.com/ulbitv)
