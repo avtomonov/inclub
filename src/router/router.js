@@ -5,12 +5,13 @@ import About from "@/pages/About";
 import PostIdPage from "@/pages/PostIdPage";
 import PostPageWithStore from "@/pages/PostPageWithStore";
 import PostPageCompositionApi from "@/pages/PostPageCompositionApi";
+import InClub from "@/pages/InClub";
 
 
 const routes = [
     {
         path: '/',
-        component: Main
+        component: InClub
     },
     {
         path: '/posts',
