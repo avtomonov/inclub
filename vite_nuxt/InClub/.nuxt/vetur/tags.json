@@ -1,4 +1,7 @@
 {
+  "BottomNavigation": {
+    "description": "Auto imported from components/BottomNavigation.vue"
+  },
   "NuxtLogo": {
     "description": "Auto imported from components/NuxtLogo.vue"
   },

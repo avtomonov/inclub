@@ -1,10 +1,38 @@
 [
   {
+    "name": "categories",
+    "path": "/categories",
+    "component": "C:\\\\vue\\\\inClub\\\\vite_nuxt\\\\InClub\\\\pages\\\\categories.vue",
+    "chunkName": "pages/categories",
+    "_name": "_0f6f91da"
+  },
+  {
+    "name": "chat",
+    "path": "/chat",
+    "component": "C:\\\\vue\\\\inClub\\\\vite_nuxt\\\\InClub\\\\pages\\\\chat.vue",
+    "chunkName": "pages/chat",
+    "_name": "_6522f98f"
+  },
+  {
     "name": "inspire",
     "path": "/inspire",
     "component": "C:\\\\vue\\\\inClub\\\\vite_nuxt\\\\InClub\\\\pages\\\\inspire.vue",
     "chunkName": "pages/inspire",
     "_name": "_e29a1f1a"
+  },
+  {
+    "name": "map",
+    "path": "/map",
+    "component": "C:\\\\vue\\\\inClub\\\\vite_nuxt\\\\InClub\\\\pages\\\\map.vue",
+    "chunkName": "pages/map",
+    "_name": "_e5b58b16"
+  },
+  {
+    "name": "settings",
+    "path": "/settings",
+    "component": "C:\\\\vue\\\\inClub\\\\vite_nuxt\\\\InClub\\\\pages\\\\settings.vue",
+    "chunkName": "pages/settings",
+    "_name": "_5d2e454c"
   },
   {
     "name": "index",
