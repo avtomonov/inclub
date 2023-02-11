@@ -2,7 +2,7 @@
 
 ## Find people by interests.
 
-# dev start
+# Dev start
 
 ## npm run serve
 

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "inspire",
+    "path": "/inspire",
+    "component": "C:\\\\vue\\\\inClub\\\\vite_nuxt\\\\InClub\\\\pages\\\\inspire.vue",
+    "chunkName": "pages/inspire",
+    "_name": "_e29a1f1a"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\vue\\\\inClub\\\\vite_nuxt\\\\InClub\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_9dac12aa"
+  }
+]
